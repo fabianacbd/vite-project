@@ -35,8 +35,8 @@ body {
 }
 
 .light {
-  background-color: var(--bg-light);
-  color: var(--primary-light);
+  background-color: whitesmoke;
+  color: rgb(99, 15, 102);
 }
 
 main {
